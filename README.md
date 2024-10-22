@@ -1,2 +1,4 @@
-# pyGamenew
-Developed a Pygame application using Python, integrated with blockchain technology, combining interactive gaming elements with secure decentralized systems for an innovative user experience.
+I developed an innovative Pygame application using Python, integrating blockchain technology to create a unique, interactive gaming experience. This project merges the dynamic features of Pygame, such as real-time player interaction, with the security and decentralization benefits of blockchain. The blockchain system is used for secure in-game transactions and data verification, ensuring that player assets and progress are immutable and transparent. By utilizing Python's Pygame library for the game mechanics and integrating blockchain through libraries like `web3.py`, this project offers a seamless fusion of entertainment and decentralized technology for a next-generation gaming solution.
+
+
+![Screenshot 2024-10-22 193532](https://github.com/user-attachments/assets/2d4885bf-3e2b-47d7-87f4-e69f880b3e70)
